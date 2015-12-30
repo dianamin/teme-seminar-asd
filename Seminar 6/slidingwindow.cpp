@@ -1,4 +1,3 @@
-
 /*
 http://www.infoarena.ro/problema/slidingwindow
 */
